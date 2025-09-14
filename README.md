@@ -1,1 +1,3 @@
-# nest-js-03-carolina-diaz-Terminal
+# Título: "Mi Proyecto Backend"
+# Descripción: práctica de backend con Node.js
+# Autor: Tu nombre y contacto
