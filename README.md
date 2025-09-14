@@ -1,3 +1,3 @@
-# Título: "Mi Proyecto Backend"
-# Descripción: práctica de backend con Node.js
-# Autor: Tu nombre y contacto
+# Mi Proyecto Backend
+# práctica de backend con Node.js
+# Carolina Diaz C.diazrojas0905@gmail.com
